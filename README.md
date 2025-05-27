@@ -11,7 +11,7 @@ Welcome to my (sometimes random, always interesting) corner of GitHub.
   - Turning coffee into code (and sometimes into existential dread)
   - Fluent in Python, JavaScript, and Emoji
   - Debugging life, one breakpoint at a time
-  - Expert at Ctrl+C, Ctrl+V operations
+  - Expert at Ctrl+C, Ctrl+V operations, using COPILOT as a human support
 
 - 🌱 Currently learning: 
   - How to keep my plants alive
